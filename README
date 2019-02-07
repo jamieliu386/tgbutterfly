@@ -1,0 +1,6 @@
+I added another button to the Assignment_One_Scene tab (bound to g). This button adds (or removes)
+small box feet to the ends of the butterfly's legs. This was added as an extra distinguishing feature
+for fun. 
+
+As a side note, the butterfly is centered at the world origin but the camera must be moved back in
+order to fully view it.
